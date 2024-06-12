@@ -27,6 +27,7 @@ h1 {
   https://cssreference.io/
   https://caniuse.com/
   https://codeguide.co/
+  https://svgporn.com/
 */
 
 /* 
@@ -245,7 +246,7 @@ https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos
 }
 
 .p-pseudoelementos::selection {
-  color: greenyellow;
+  color: green;
   background-color: black;
 }
 
